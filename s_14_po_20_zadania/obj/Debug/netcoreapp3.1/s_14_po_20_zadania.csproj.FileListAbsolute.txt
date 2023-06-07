@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\s_14_po_20_zadania\s_14_po_20_zadania\bin\Debug\netcoreapp3.1\s_14_po_20_zadania.exe
+C:\Users\User\source\repos\s_14_po_20_zadania\s_14_po_20_zadania\bin\Debug\netcoreapp3.1\s_14_po_20_zadania.deps.json
+C:\Users\User\source\repos\s_14_po_20_zadania\s_14_po_20_zadania\bin\Debug\netcoreapp3.1\s_14_po_20_zadania.runtimeconfig.json
+C:\Users\User\source\repos\s_14_po_20_zadania\s_14_po_20_zadania\bin\Debug\netcoreapp3.1\s_14_po_20_zadania.runtimeconfig.dev.json
+C:\Users\User\source\repos\s_14_po_20_zadania\s_14_po_20_zadania\bin\Debug\netcoreapp3.1\s_14_po_20_zadania.dll
+C:\Users\User\source\repos\s_14_po_20_zadania\s_14_po_20_zadania\bin\Debug\netcoreapp3.1\s_14_po_20_zadania.pdb
+C:\Users\User\source\repos\s_14_po_20_zadania\s_14_po_20_zadania\obj\Debug\netcoreapp3.1\s_14_po_20_zadania.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\s_14_po_20_zadania\s_14_po_20_zadania\obj\Debug\netcoreapp3.1\s_14_po_20_zadania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\s_14_po_20_zadania\s_14_po_20_zadania\obj\Debug\netcoreapp3.1\s_14_po_20_zadania.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\s_14_po_20_zadania\s_14_po_20_zadania\obj\Debug\netcoreapp3.1\s_14_po_20_zadania.AssemblyInfo.cs
+C:\Users\User\source\repos\s_14_po_20_zadania\s_14_po_20_zadania\obj\Debug\netcoreapp3.1\s_14_po_20_zadania.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\s_14_po_20_zadania\s_14_po_20_zadania\obj\Debug\netcoreapp3.1\s_14_po_20_zadania.dll
+C:\Users\User\source\repos\s_14_po_20_zadania\s_14_po_20_zadania\obj\Debug\netcoreapp3.1\s_14_po_20_zadania.pdb
+C:\Users\User\source\repos\s_14_po_20_zadania\s_14_po_20_zadania\obj\Debug\netcoreapp3.1\s_14_po_20_zadania.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "s_14_po_20_zadania/1.0.0": {
+        "runtime": {
+          "s_14_po_20_zadania.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "s_14_po_20_zadania/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
